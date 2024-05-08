@@ -26,5 +26,4 @@ This Bash script automates the process of creating a bootable USB flash drive fr
 - Use this script at your own risk. The author is not responsible for any data loss or damage caused by the misuse of this script.
 
 ## Author:
-Leonardo Jung (sk0rp1on)
-
+Leonardo Jung
